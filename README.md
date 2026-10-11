@@ -1,10 +1,11 @@
-Geometric Pattern Animation
+este es otro proyecto pero esta ves agregare un vidoe como hacerlo
+"Geometric Pattern Animation
 
 ## Overview
 
 ## Preview
 
-[Watch the Geometric Pattern Animation](Recording%2026-10-10%212446)
+![Geometric Pattern Animation](Screenshot%202026-10-10%20162205.png)
 
 Geometric Pattern Animation is a Java project that creates geometric designs by progressively drawing and rotating triangular shapes around a central point. Developed using the Code.org Theater library, the project combines mathematics, object-oriented programming, and visual animation.
 
@@ -62,3 +63,4 @@ This project provided hands-on experience combining mathematical concepts with J
 ## Project Background
 
 This project was developed using Code.org as a programming exercise. It demonstrates my interest in combining programming, mathematics, and visual creativity to build interactive graphical experiences.
+"
